@@ -11,7 +11,7 @@ buildscript {
   ]
 
   ext.deps = [
-    "annotations"         : "androidx.annotation:annotation:1.0.0",
+    "annotations"         : "androidx.annotation:annotation:1.6.0",
     "appcompat-v7"        : "androidx.appcompat:appcompat:1.0.0",
     "design"              : "com.android.support:design:${ext.android.ANDROID_SUPPORT_VERSION}",
     "cardview-v7"         : "com.android.support:cardview-v7:${ext.android.ANDROID_SUPPORT_VERSION}",
